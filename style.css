@@ -1,0 +1,18 @@
+
+body {
+  font-family: 'Sahel', sans-serif;
+  background-color: #f4e8d1;
+  color: #3e2c23;
+  padding: 20px;
+}
+header {
+  text-align: center;
+}
+button {
+  margin: 5px;
+  padding: 10px;
+  background-color: #a67b5b;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
